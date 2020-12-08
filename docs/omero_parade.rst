@@ -18,9 +18,9 @@ Key-Value pairs, and data stored in OMERO.tables.
 **Resources:**
 --------------
 
--  Sample images from the Image Data Resource (IDR) https://idr.openmicroscopy.org/webclient/?show=project-51. See https://github.com/ome/training-scripts/blob/master/maintenance/preparation/idr0021-data-prep.md for download and import instructions.
+-  Sample images from the Image Data Resource (IDR) `idr0021 <https://idr.openmicroscopy.org/search/?query=Name:idr0021>`__. See `idr0021-data-prep.md <https://github.com/ome/training-scripts/blob/master/maintenance/preparation/idr0021-data-prep.md>`__ for download and import instructions.
 
--  Sample plate data from Plate 422 on IDR at http://idr.openmicroscopy.org/webclient/?show=plate-422. Use the script at https://github.com/ome/training-scripts/blob/master/maintenance/scripts/idr_copy_plate.py to copy Plate ID 422. Run the script with ``$ python idr_copy_plate.py username password 422 --server your.server.org``
+-  Sample plate data from Plate with 422 on IDR from `idr0002 <https://idr.openmicroscopy.org/search/?query=Name:idr0002>`__. Use the script `idr_copy_plate.py <https://github.com/ome/training-scripts/blob/master/maintenance/scripts/idr_copy_plate.py>`__ to copy Plate ID 422. Run the script with ``$ python idr_copy_plate.py username password 422 --server your.server.org``
 
 **Step-by-Step:**
 -----------------
